@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Absolut-AK
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python, discordbot, fullstack with react and node
-- 💞️ I’m looking to collaborate on discordbot, or anykind of project that i can program with.
 - 📫 How to reach me is with discord, it is the easiest for me, absolut_ak.
 
 <!---
